@@ -13,14 +13,6 @@ Run it locally: clone/download this repository. Open Neighborhood_Map.html in yo
 * https://cloud.google.com/maps-platform/
 * https://developer.foursquare.com/
 
-## Project's Architecture
-
-* Use Knockoutjs View-Model-ViewModel to render in DOM
-* Include at least five locations
-* Use one third party api to get information
-* Application should be responsive
-
-
 ## Project's Goals
 
 * Review Javascript Design Patterns
@@ -29,7 +21,7 @@ Run it locally: clone/download this repository. Open Neighborhood_Map.html in yo
 * Display map  markers identifying at least 5 locations that you are interested within this neighborhood
 * Include an input field to filter both the list view and the map markers displayed by default on load
 * Create functionality to your map markers
-* Create functionality when using third-party APIs that will provide information when a map marker od list view entry is clicked
+* Create functionality when using third-party APIs that will provide information when a map marker or list view entry is clicked
 
 
 
