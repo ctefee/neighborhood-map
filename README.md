@@ -2,7 +2,7 @@
 
 This project requires you to explore and learn more about frameworks, libraries, APIs.
 
-Neighbohood Map project encourages you to develop a single-page appilcation **(SPA)** that features a map of your neighborhood or a neighborhood you would like to visit. 
+Neighbohood Map project encourages you to develop a single-page appilcation **(SPA)** that features a map of your neighborhood or a neighborhood that which you would like to visit. 
 
 ## Getting Started
 Run it locally: clone/download this repository. Open Neighborhood_Map.html in your browser.
